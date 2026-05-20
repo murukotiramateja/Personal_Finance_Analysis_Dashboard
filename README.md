@@ -5,7 +5,7 @@ This project provides a visual personal finance dashboard built in Microsoft Exc
 The dashboard includes slicers for flexible filtering by year and month, making it useful for both detailed analysis and presentation.
 
 ## Dataset used
--<a href="https://github.com/murukotiramateja/Personal_Finance_Analysis_Dashboard/blob/main/monthly_spending_dataset_2020_2025.xlsx">Dataset</a>
+<a href="https://github.com/murukotiramateja/Personal_Finance_Analysis_Dashboard/blob/main/monthly_spending_dataset_2020_2025.xlsx">Dataset</a>
 
 ## Key Features
 - Interactive dashboard with slicers for Year and Month filtering
@@ -17,7 +17,7 @@ The dashboard includes slicers for flexible filtering by year and month, making 
 - Clean, presentation-ready layout
 
 ## Dashboard Insights
--<a href="https://github.com/murukotiramateja/Personal_Finance_Analysis_Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
+<a href="https://github.com/murukotiramateja/Personal_Finance_Analysis_Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
 The dashboard helps answer questions such as:
 - How much income, expenditure, and surplus was generated?
 - Which categories contribute most to spending?
