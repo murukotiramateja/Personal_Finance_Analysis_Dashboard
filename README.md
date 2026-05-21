@@ -16,7 +16,7 @@ The dashboard includes slicers for flexible filtering by year and month, making 
 - Year-wise Surplus Rate trend
 - Clean, presentation-ready layout
 
-## Dashboard Insights
+## Dashboard Analysis
 <a href="https://github.com/murukotiramateja/Personal_Finance_Analysis_Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
 The dashboard helps answer questions such as:
 - How much income, expenditure, and surplus was generated?
@@ -86,6 +86,14 @@ This project is useful for:
 
 ## Project Goal
 The goal of this project is to convert personal finance data into a clear, interactive, and presentation-ready Excel dashboard that makes it easy to identify trends, monitor spending, and improve financial decision-making.
+
+## Skills Demonstrated
+- Data Cleaning and Transformation
+- Pivot Table Analysis
+- Interactive Dashboard Design
+- Data Visualization
+- Financial Trend Analysis
+- Insight Generation
 
 ## Author
 Created by Murukoti Rama Teja
